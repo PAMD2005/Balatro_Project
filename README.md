@@ -1,6 +1,6 @@
 # Balatro - WPF Application
 
-This project was inspired by the original **Balatro** game, integrating similar gameplay mechanics in a WPF environment.  
+This school project was inspired by the original **Balatro** game, integrating similar gameplay mechanics in a WPF environment.  
 Additionally, the **bosses** featured throughout the game are inspired by characters from **Cuphead**, providing a nostalgic and challenging atmosphere.
 
 WPF application developed in C# using the MVC architecture and CRUD operations with SQL Server.  
