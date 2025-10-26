@@ -20,12 +20,12 @@ You can preview some of these sounds below:
 🎧 **Audio Samples**
 
 <audio controls>
-  <source src="https://raw.githubusercontent.com/teu-usuario/Balatro-WPF/main/Audios/knockout.wav" type="audio/wav">
+  <source src="https://raw.githubusercontent.com/PAMD2005/Balatro-WPF/main/Audios/knockout.wav" type="audio/wav">
   Your browser does not support the audio element.
 </audio>
 
 <audio controls>
-  <source src="https://raw.githubusercontent.com/teu-usuario/Balatro-WPF/main/Audios/DevilOminous.wav" type="audio/wav">
+  <source src="https://raw.githubusercontent.com/PAMD2005/Balatro-WPF/main/Audios/DevilOminous.wav" type="audio/wav">
   Your browser does not support the audio element.
 </audio>
 
