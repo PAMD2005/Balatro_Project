@@ -54,7 +54,7 @@ Below are several screenshots demonstrating progression through different bosses
 |--------------|-------------|--------------|
 | ![Second Boss](Imagens/Balatro_Second_Boss.png) | ![Third Boss](Imagens/Balatro_Third_Boss.png) | ![Fourth Boss](Imagens/Balatro_Fourth_Boss.png) |
 
-| Fifth Boss | Sixth Boss |
+| Fifth Boss First Phase | Sixth Boss Second Phase |
 |-------------|-------------|
 | ![Fifth Boss](Imagens/Balatro_Fifth_Boss.png) | ![Sixth Boss](Imagens/Balatro_Sixth_Boss.png) |
 
