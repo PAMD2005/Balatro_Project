@@ -1,5 +1,35 @@
-# Balatro  - WPF Application
-WPF application developed in C# using the MVC architecture and CRUD operations with SQL Server. The project demonstrates skills in OOP, ADO.NET, and UI design, emphasizing functionality, visual appeal, and innovation.
+# Balatro - WPF Application
+
+This project was inspired by the original **Balatro** game, integrating similar gameplay mechanics in a WPF environment.  
+Additionally, the **bosses** featured throughout the game are inspired by characters from **Cuphead**, providing a nostalgic and challenging atmosphere.
+
+WPF application developed in C# using the MVC architecture and CRUD operations with SQL Server.  
+The project demonstrates skills in OOP, ADO.NET, and UI design, emphasizing functionality, visual appeal, and innovation.
+
+---
+
+## 🔊 Audio Features
+
+Throughout the gameplay, the project includes several background audio tracks and sound effects to enhance the experience.  
+- Background **boss music** plays during battles to create immersion.  
+- The sound effect **`knockout.wav`** is played when an enemy is defeated.  
+- The sound effect **`DevilOminous.wav`** is triggered when the player defeats the **Fifth Boss** in the first phase of the game.
+
+You can preview some of these sounds below:
+
+🎧 **Audio Samples**
+
+<audio controls>
+  <source src="https://raw.githubusercontent.com/teu-usuario/Balatro-WPF/main/Audios/knockout.wav" type="audio/wav">
+  Your browser does not support the audio element.
+</audio>
+
+<audio controls>
+  <source src="https://raw.githubusercontent.com/teu-usuario/Balatro-WPF/main/Audios/DevilOminous.wav" type="audio/wav">
+  Your browser does not support the audio element.
+</audio>
+
+---
 
 ## 🧩 Features & Screenshots
 
